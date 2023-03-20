@@ -1,6 +1,6 @@
 # Testing
 Testing pull requests and the whole thing.
 
-Gee I hope this doesn't need a cleanup!
+This looks great!
 
 And a whole lot more.
